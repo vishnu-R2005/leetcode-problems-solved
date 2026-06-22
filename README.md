@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1189-maximum-number-of-balloons) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
