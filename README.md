@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0058-length-of-last-word) |
 | [1189-maximum-number-of-balloons](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0176-second-highest-salary) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
