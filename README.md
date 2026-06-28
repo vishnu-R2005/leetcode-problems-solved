@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
