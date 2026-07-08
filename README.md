@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2549-count-distinct-numbers-on-board](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2549-count-distinct-numbers-on-board) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2549-count-distinct-numbers-on-board](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2549-count-distinct-numbers-on-board) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0013-roman-to-integer) |
+| [2549-count-distinct-numbers-on-board](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2549-count-distinct-numbers-on-board) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [2549-count-distinct-numbers-on-board](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2549-count-distinct-numbers-on-board) |
 <!---LeetCode Topics End-->
