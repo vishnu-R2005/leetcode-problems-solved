@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2549-count-distinct-numbers-on-board](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2549-count-distinct-numbers-on-board) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2549-count-distinct-numbers-on-board) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -125,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1688-count-of-matches-in-tournament) |
 | [2549-count-distinct-numbers-on-board](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2549-count-distinct-numbers-on-board) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
