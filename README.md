@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2549-count-distinct-numbers-on-board](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2549-count-distinct-numbers-on-board) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [1331-rank-transform-of-an-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2549-count-distinct-numbers-on-board](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2549-count-distinct-numbers-on-board) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Database
