@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0029-divide-two-integers) |
 | [0866-prime-palindrome](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0866-prime-palindrome) |
 | [1688-count-of-matches-in-tournament](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1688-count-of-matches-in-tournament) |
 | [2549-count-distinct-numbers-on-board](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2549-count-distinct-numbers-on-board) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0029-divide-two-integers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
