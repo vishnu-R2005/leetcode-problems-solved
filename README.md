@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0013-roman-to-integer) |
 | [0866-prime-palindrome](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0866-prime-palindrome) |
 | [1688-count-of-matches-in-tournament](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1688-count-of-matches-in-tournament) |
