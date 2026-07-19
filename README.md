@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1331-rank-transform-of-an-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1189-maximum-number-of-balloons) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1189-maximum-number-of-balloons) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
