@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
