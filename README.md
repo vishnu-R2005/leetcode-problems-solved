@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0146-lru-cache](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1189-maximum-number-of-balloons) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
 | [1260-shift-2d-grid](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
