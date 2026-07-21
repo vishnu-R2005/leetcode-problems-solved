@@ -5,5 +5,4 @@ class Solution:
             if i in seen:
                 return True
             seen.add(i)
-
         return False 
