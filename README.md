@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0409-longest-palindrome) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
@@ -242,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
