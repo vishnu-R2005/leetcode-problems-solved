@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0347-top-k-frequent-elements) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0128-longest-consecutive-sequence) |
 | [2685-count-the-number-of-complete-components](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
