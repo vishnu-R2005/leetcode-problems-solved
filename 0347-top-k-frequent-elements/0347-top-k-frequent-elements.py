@@ -1,11 +1,22 @@
 class Solution:
-    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        fre = {}
+    def topKFrequent(self, nums, k):
+        freq = {}
 
+        # Count frequency
         for num in nums:
-            fre[num] = fre.get(num, 0) + 1
+            freq[num] = freq.get(num, 0) + 1
 
-        sorted_list = list(fre.items())
-        sorted_list.sort(key=lambda x: x[1], reverse=True)
+        # Buckets where index = frequency
+        buckets = [[] for _ in range(len(nums) + 1)]
 
-        return [x[0] for x in sorted_list[:k]]
+        for num, count in freq.items():
+            buckets[count].append(num)
+
+        result = []
+
+        # Traverse from highest frequency to lowest
+        for i in range(len(buckets) - 1, 0, -1):
+            for num in buckets[i]:
+                result.append(num)
+                if len(result) == k:
+                    return result
