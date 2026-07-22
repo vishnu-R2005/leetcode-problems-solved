@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1189-maximum-number-of-balloons) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1189-maximum-number-of-balloons) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3312-sorted-gcd-pair-queries) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0347-top-k-frequent-elements) |
 | [1260-shift-2d-grid](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0347-top-k-frequent-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -196,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -270,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0146-lru-cache) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
