@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0043-multiply-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0866-prime-palindrome) |
 | [1688-count-of-matches-in-tournament](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1979-find-greatest-common-divisor-of-array) |
