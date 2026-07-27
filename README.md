@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0160-intersection-of-two-linked-lists) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0242-valid-anagram) |
