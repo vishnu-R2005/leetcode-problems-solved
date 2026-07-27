@@ -1,19 +1,26 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
-        low = 0
-        mid = 0
-        high = len(nums) - 1
+        hash_map = defaultdict(int)
+        for num in nums:
+            hash_map[num]+=1
+        index=0
+        for _ in range(hash_map[0]):
+            nums[index] =0
+            index+=1
+            
+        for _ in range(hash_map[1]):
+            nums[index] =1
+            index+=1
+            
+        for _ in range(hash_map[2]):
+            nums[index] =2
+            index+=1
+            
+            
+        
 
-        while mid <= high:
 
-            if nums[mid] == 0:
-                nums[low], nums[mid] = nums[mid], nums[low]
-                low += 1
-                mid += 1
 
-            elif nums[mid] == 1:
-                mid += 1
 
-            else:
-                nums[mid], nums[high] = nums[high], nums[mid]
-                high -= 1
+
+
