@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0128-longest-consecutive-sequence) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
