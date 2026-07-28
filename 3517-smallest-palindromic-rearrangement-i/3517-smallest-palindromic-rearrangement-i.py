@@ -3,6 +3,7 @@ class Solution:
         freq = [0] * 26
         for ch in s:
             freq[ord(ch) - ord('a')] += 1
+
         left = []
         middle = ""
         for i in range(26):
