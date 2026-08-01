@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1331-rank-transform-of-an-array) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0032-longest-valid-parentheses) |
+| [0486-predict-the-winner](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0043-multiply-strings) |
+| [0486-predict-the-winner](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0866-prime-palindrome) |
 | [1688-count-of-matches-in-tournament](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1688-count-of-matches-in-tournament) |
@@ -343,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
