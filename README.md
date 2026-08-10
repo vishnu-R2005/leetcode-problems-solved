@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0866-prime-palindrome) |
+| [1510-stone-game-iv](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1510-stone-game-iv) |
 | [1688-count-of-matches-in-tournament](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/2549-count-distinct-numbers-on-board) |
@@ -361,4 +363,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vishnu-R2005/leetcode-problems-solved/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
